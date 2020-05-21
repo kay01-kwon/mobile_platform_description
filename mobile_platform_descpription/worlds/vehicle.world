@@ -35,9 +35,10 @@
       <uri>model://sun</uri>
     </include>
 
-		<!-- Customized world -->
+		<!-- Customized world 
     <include>
       <uri>model://rectangle</uri>
     </include>
+		-->
   </world>
 </sdf>
